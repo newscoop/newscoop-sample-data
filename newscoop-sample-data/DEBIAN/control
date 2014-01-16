@@ -3,7 +3,7 @@ Source: newscoop
 Version: 2.5.1-1
 Architecture: all
 Maintainer: Daniel James <daniel@64studio.com>
-Installed-Size: 96608
+Installed-Size: 97120
 Section: web
 Priority: optional
 Homepage: http://www.sourcefabric.org/en/newscoop/
